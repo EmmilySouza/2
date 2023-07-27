@@ -1,0 +1,28 @@
+h2 {
+    color: rgb(0, 0, 0);
+  }
+
+ h1 {
+    width: 550px;
+    border: 0px solid rgb(255, 255, 255);
+    height: 100px;
+    background-color: rgba(201, 20, 225, 0.984);
+    border-radius: 10px;
+ }
+
+  .sla {
+    width: 550px;
+    border: 0px solid rgba(41, 125, 203, 0.413);
+    height: 300px;
+    background-color:  rgba(229, 114, 239, 0.984);
+    border-radius: 10px;
+  }
+
+  body {
+    background-color: rgb(255, 255, 255);
+    
+  }
+
+  button {
+    background-color: rgb(255, 255, 255);
+  }
